@@ -23,4 +23,4 @@ Twitter timeline challenge
 
 3. download followers
 - there will be download button to download all followers of any user can be serach screen_name(ex.@handler).
-- download the followers in csv file. 
+- download the followers in csv and PDF file. 
